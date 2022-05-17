@@ -25,7 +25,7 @@
   O Postgres está rodando na porta padrão 5432.
   A senha do usuário "postgres" é "senha" a mesma do professor.
 
-### Acessando o pgadmin no brower, simplismente digite o endereço abaixo no navegador
+### Acessando o pgadmin no browser, simplismente digite o endereço abaixo no navegador
 
   - http://localhost:9000
   - Na tela inicial faça o login com: 
@@ -36,14 +36,14 @@
   1 - clique com o botão direito em servers, e selecione Register e clique em Server...
   ao abrir a janela General coloque o name como: postgresql14.
 
-  ![dbml](https://github.com/fernandomarca/estacio-db/print/register.png)
+  ![reg](https://github.com/fernandomarca/estacio-db/blob/main/print/register.png)
 
   2 - Na aba Connetion entre com as informações conforme o print abaixo:
     - Para o host: database (esse é o nome do serviço no container)
     - username: postgres
     - password: senha
 
-  ![dbml](https://github.com/fernandomarca/estacio-db/print/connection.png)
+  ![conn](https://github.com/fernandomarca/estacio-db/blob/main/print/connection.png)
 
 ### Pronto seguindo esses passos está tudo configurado, siga com a aula.
 
